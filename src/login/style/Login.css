@@ -1,3 +1,5 @@
-.login{
+.login,
+.signin {
     text-decoration: none;
+    color: black;
 }

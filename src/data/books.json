@@ -1,0 +1,373 @@
+{
+    "books": [
+        {
+            "id": "0",
+            "title": "A Little Life",
+            "author": "Hanya Yanagihara",
+            "summary": "",
+            "type": "mobi",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "1",
+            "title": "Arcanum Unbounded",
+            "author": "Brandon Sanderson",
+            "summary": "",
+            "type": "mobi",
+            "gender": "M",
+            "language": "ENG"
+        },
+        {
+            "id": "2",
+            "title": "Beautiful World, Where Are You",
+            "author": "Sally Rooney",
+            "summary": "",
+            "type": "mobi",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "3",
+            "title": "Black Holes and Baby Universe and Other Essays",
+            "author": "Stephen Hawing",
+            "summary": "",
+            "type": "mobi",
+            "gender": "M",
+            "language": "ENG"
+        },
+        {
+            "id": "4",
+            "title": "I'm Glad My Mum Died",
+            "author": "Jennette McCurdy",
+            "summary": "",
+            "type": "mobi",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "5",
+            "title": "Into The Wild",
+            "author": "Jon Krakauer",
+            "summary": "",
+            "type": "mobi",
+            "gender": "M",
+            "language": "ENG"
+        },
+        {
+            "id": "6",
+            "title": "It Ends With Us",
+            "author": "Colleen Hoover",
+            "summary": "",
+            "type": "mobi",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "7",
+            "title": "The Awakening",
+            "author": "Kate Chopin",
+            "summary": "",
+            "type": "mobi",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "8",
+            "title": "The Book Thief",
+            "author": "Markus Zusak",
+            "summary": "",
+            "type": "mobi",
+            "gender": "M",
+            "language": "ENG"
+        },
+        {
+            "id": "9",
+            "title": "The Catcher In The Rye",
+            "author": "J. S. Salinger",
+            "summary": "",
+            "type": "mobi",
+            "gender": "M",
+            "language": "ENG"
+        },
+        {
+            "id": "10",
+            "title": "The Goldfinch",
+            "author": "Donna Tartt",
+            "summary": "",
+            "type": "mobi",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "11",
+            "title": "The Road",
+            "author": "Cormac McCarthy",
+            "summary": "",
+            "type": "mobi",
+            "gender": "M",
+            "language": "ENG"
+        },
+        {
+            "id": "12",
+            "title": "The Song Of Achilles",
+            "author": "Madeline Miller",
+            "summary": "",
+            "type": "mobi",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "13",
+            "title": "The Yellow Wallpaper",
+            "author": "Charlotte Perkins Gilman",
+            "summary": "",
+            "type": "mobi",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "14",
+            "title": "They Both Die At The End",
+            "author": "Adam Silvera",
+            "summary": "",
+            "type": "mobi",
+            "gender": "M",
+            "language": "ENG"
+        },
+        {
+            "id": "15",
+            "title": "A Brief History Of Time",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "",
+            "language": "ENG"
+        },
+        {
+            "id": "16",
+            "title": "A Hunted House",
+            "author": "Virginia Woolf",
+            "summary": "",
+            "type": "epub",
+            "gender": "F",
+            "language": "ENG"
+        },
+        {
+            "id": "17",
+            "title": "An Antarctic Mystery",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "",
+            "language": "ENG"
+        },
+        {
+            "id": "18",
+            "title": "Ana Karenina",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "19",
+            "title": "Anche le parole curano",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "",
+            "language": ""
+        },
+        {
+            "id": "20",
+            "title": "Ann Veronica",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "",
+            "language": "ENG"
+        },
+        {
+            "id": "22",
+            "title": "Anna Karenina",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "23",
+            "title": "Bartleby el escribiente",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "24",
+            "title": "Crimen y Castigo",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "25",
+            "title": "Cuento de amor, de locura y de muerte",
+            "author": "",
+            "summary": "",
+            "type": "epub",
+            "gender": "",
+            "language": "ES"
+        },
+        {
+            "id": "26",
+            "title": "De Bibliotheca",
+            "author": "Umberto Eco",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ITA"
+        },
+        {
+            "id": "27",
+            "title": "De Profundis",
+            "author": "Oscar Wilde",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ITA"
+        },
+        {
+            "id": "28",
+            "title": "Diccionario del Diablo",
+            "author": "Ambrose Bierce",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "29",
+            "title": "Dracula",
+            "author": "Bram Stoker",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "30",
+            "title": "El Abrigo",
+            "author": "Nikolai Gogol",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "31",
+            "title": "El Barquero Anarquista",
+            "author": "Fernando Pessoa",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "32",
+            "title": "El Conde de Montecristo",
+            "author": "Alexandre Dumas (padre)",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "33",
+            "title": "El Cuarteto de Cuerdas",
+            "author": "Virginia Woolf",
+            "summary": "",
+            "type": "epub",
+            "gender": "F",
+            "language": "ES"
+        },
+        {
+            "id": "34",
+            "title": "El Foco",
+            "author": "Virginia Woolf",
+            "summary": "",
+            "type": "epub",
+            "gender": "F",
+            "language": "ES"
+        },
+        {
+            "id": "35",
+            "title": "El Gato Negro",
+            "author": "Edgar Allan Poe",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "36",
+            "title": "El Ingenioso Hidalgo Don Quijote de la Mancha",
+            "author": "Miguel de Cervantes",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "37",
+            "title": "El monaguillo",
+            "author": "Julia de Asensi",
+            "summary": "",
+            "type": "epub",
+            "gender": "F",
+            "language": "ES"
+        },
+        {
+            "id": "38",
+            "title": "El Origen del Pensamiento",
+            "author": "Armando Palacio Valdes",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "39",
+            "title": "El saludo de las brujas",
+            "author": "Emilia PArdo Bazan",
+            "summary": "",
+            "type": "epub",
+            "gender": "F",
+            "language": "ES"
+        },
+        {
+            "id": "40",
+            "title": "El spleen de Paris",
+            "author": "Charles Baudelaire",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ES"
+        },
+        {
+            "id": "41",
+            "title": "Banduna. Andare al terremoto",
+            "author": "Alessandro Mari",
+            "summary": "",
+            "type": "epub",
+            "gender": "M",
+            "language": "ITA"
+        }
+    ]
+}

@@ -43,6 +43,8 @@ const Explore = () => {
                       </Card.Header>
                       <Card.Body css={{ p: 0 }}>
                         <Card.Image
+                          src={item.copertina}
+                          alt="no"
                           objectFit="cover"
                           width="100%"
                           height={140}
